@@ -1,0 +1,6 @@
+D:\bkp\Documentos\Renato\Alura\Programação\C#\Collections Parte 1\Aula 2 - Lista, a Coleção Flexivel\csharp-collections-dfbba58337926cd59d93e47e7f5e04e76fde569b\A11Arrays\bin\Debug\A11Arrays.exe.config
+D:\bkp\Documentos\Renato\Alura\Programação\C#\Collections Parte 1\Aula 2 - Lista, a Coleção Flexivel\csharp-collections-dfbba58337926cd59d93e47e7f5e04e76fde569b\A11Arrays\bin\Debug\A11Arrays.exe
+D:\bkp\Documentos\Renato\Alura\Programação\C#\Collections Parte 1\Aula 2 - Lista, a Coleção Flexivel\csharp-collections-dfbba58337926cd59d93e47e7f5e04e76fde569b\A11Arrays\bin\Debug\A11Arrays.pdb
+D:\bkp\Documentos\Renato\Alura\Programação\C#\Collections Parte 1\Aula 2 - Lista, a Coleção Flexivel\csharp-collections-dfbba58337926cd59d93e47e7f5e04e76fde569b\A11Arrays\obj\Debug\A11Arrays.csprojResolveAssemblyReference.cache
+D:\bkp\Documentos\Renato\Alura\Programação\C#\Collections Parte 1\Aula 2 - Lista, a Coleção Flexivel\csharp-collections-dfbba58337926cd59d93e47e7f5e04e76fde569b\A11Arrays\obj\Debug\A11Arrays.exe
+D:\bkp\Documentos\Renato\Alura\Programação\C#\Collections Parte 1\Aula 2 - Lista, a Coleção Flexivel\csharp-collections-dfbba58337926cd59d93e47e7f5e04e76fde569b\A11Arrays\obj\Debug\A11Arrays.pdb
