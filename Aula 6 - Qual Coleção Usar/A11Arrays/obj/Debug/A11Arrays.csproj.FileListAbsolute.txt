@@ -1,0 +1,6 @@
+D:\bkp\Documentos\Renato\Alura\Programação\C#\Collections Parte 1\Aula 6 - Qual Coleção Usar\csharp-collections-d3a1d13f28ab6e708613eb97f05211a1571c59c8\A11Arrays\bin\Debug\A11Arrays.exe.config
+D:\bkp\Documentos\Renato\Alura\Programação\C#\Collections Parte 1\Aula 6 - Qual Coleção Usar\csharp-collections-d3a1d13f28ab6e708613eb97f05211a1571c59c8\A11Arrays\bin\Debug\A11Arrays.exe
+D:\bkp\Documentos\Renato\Alura\Programação\C#\Collections Parte 1\Aula 6 - Qual Coleção Usar\csharp-collections-d3a1d13f28ab6e708613eb97f05211a1571c59c8\A11Arrays\bin\Debug\A11Arrays.pdb
+D:\bkp\Documentos\Renato\Alura\Programação\C#\Collections Parte 1\Aula 6 - Qual Coleção Usar\csharp-collections-d3a1d13f28ab6e708613eb97f05211a1571c59c8\A11Arrays\obj\Debug\A11Arrays.csprojResolveAssemblyReference.cache
+D:\bkp\Documentos\Renato\Alura\Programação\C#\Collections Parte 1\Aula 6 - Qual Coleção Usar\csharp-collections-d3a1d13f28ab6e708613eb97f05211a1571c59c8\A11Arrays\obj\Debug\A11Arrays.exe
+D:\bkp\Documentos\Renato\Alura\Programação\C#\Collections Parte 1\Aula 6 - Qual Coleção Usar\csharp-collections-d3a1d13f28ab6e708613eb97f05211a1571c59c8\A11Arrays\obj\Debug\A11Arrays.pdb
