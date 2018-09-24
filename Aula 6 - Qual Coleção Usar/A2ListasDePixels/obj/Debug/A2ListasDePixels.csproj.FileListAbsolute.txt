@@ -1,0 +1,10 @@
+D:\bkp\Documentos\Renato\Alura\Programação\C#\Collections Parte 1\Aula 6 - Qual Coleção Usar\csharp-collections-d3a1d13f28ab6e708613eb97f05211a1571c59c8\A2ListasDePixels\bin\Debug\favicon.ico
+D:\bkp\Documentos\Renato\Alura\Programação\C#\Collections Parte 1\Aula 6 - Qual Coleção Usar\csharp-collections-d3a1d13f28ab6e708613eb97f05211a1571c59c8\A2ListasDePixels\bin\Debug\A2ListasDePixels.exe.config
+D:\bkp\Documentos\Renato\Alura\Programação\C#\Collections Parte 1\Aula 6 - Qual Coleção Usar\csharp-collections-d3a1d13f28ab6e708613eb97f05211a1571c59c8\A2ListasDePixels\bin\Debug\A2ListasDePixels.exe
+D:\bkp\Documentos\Renato\Alura\Programação\C#\Collections Parte 1\Aula 6 - Qual Coleção Usar\csharp-collections-d3a1d13f28ab6e708613eb97f05211a1571c59c8\A2ListasDePixels\bin\Debug\A2ListasDePixels.pdb
+D:\bkp\Documentos\Renato\Alura\Programação\C#\Collections Parte 1\Aula 6 - Qual Coleção Usar\csharp-collections-d3a1d13f28ab6e708613eb97f05211a1571c59c8\A2ListasDePixels\obj\Debug\A2ListasDePixels.csprojResolveAssemblyReference.cache
+D:\bkp\Documentos\Renato\Alura\Programação\C#\Collections Parte 1\Aula 6 - Qual Coleção Usar\csharp-collections-d3a1d13f28ab6e708613eb97f05211a1571c59c8\A2ListasDePixels\obj\Debug\A2ListasDePixels.Form1.resources
+D:\bkp\Documentos\Renato\Alura\Programação\C#\Collections Parte 1\Aula 6 - Qual Coleção Usar\csharp-collections-d3a1d13f28ab6e708613eb97f05211a1571c59c8\A2ListasDePixels\obj\Debug\A2ListasDePixels.Properties.Resources.resources
+D:\bkp\Documentos\Renato\Alura\Programação\C#\Collections Parte 1\Aula 6 - Qual Coleção Usar\csharp-collections-d3a1d13f28ab6e708613eb97f05211a1571c59c8\A2ListasDePixels\obj\Debug\A2ListasDePixels.csproj.GenerateResource.Cache
+D:\bkp\Documentos\Renato\Alura\Programação\C#\Collections Parte 1\Aula 6 - Qual Coleção Usar\csharp-collections-d3a1d13f28ab6e708613eb97f05211a1571c59c8\A2ListasDePixels\obj\Debug\A2ListasDePixels.exe
+D:\bkp\Documentos\Renato\Alura\Programação\C#\Collections Parte 1\Aula 6 - Qual Coleção Usar\csharp-collections-d3a1d13f28ab6e708613eb97f05211a1571c59c8\A2ListasDePixels\obj\Debug\A2ListasDePixels.pdb
